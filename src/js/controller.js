@@ -28,6 +28,7 @@ const controlRecipes = async function() {
     recipeView.render(model.state.recipe);
     // The render method could also be written like this:
     // const recipeView = new RecipeView(model.state.recipe)
+    
   } catch (err) {
     recipeView.renderError(`${err} 💥💥💥💥`)
   }
@@ -70,9 +71,18 @@ const controlPagination = function(goToPage) {
   console.log(`goToPage: ${goToPage}`);
 }
 
+const controlServings = function (newServings) {
+  // Update the recipe servings (in state)
+  model.updateServings(newServings)
+
+  // Update the recipe view
+  recipeView.render(model.state.recipe);
+}
+
 //the next 4 lines implement the publisher/subscriber pattern.
 const init = function() {
   recipeView.addHandlerRender(controlRecipes);
+  recipeView.addHandlerUpdateServings(controlServings);
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination)
 }

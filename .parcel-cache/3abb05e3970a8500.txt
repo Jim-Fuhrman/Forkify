@@ -30,7 +30,7 @@
 58C:\Users\jimfu\forkifyApplication\node_modules\yaml\map.js132908015789580284 0
 55C:\Users\jimfu\forkifyApplication\src\sass\_header.scss132562249780000000 0
 56C:\Users\jimfu\forkifyApplication\node_modules\is-number132908016165222034 1
-38C:\Users\jimfu\forkifyApplication\dist132913169034304629 1
+38C:\Users\jimfu\forkifyApplication\dist132913991051231517 1
 90C:\Users\jimfu\forkifyApplication\node_modules\core-js\internals\array-buffer-view-core.js132908160871104295 0
 72C:\Users\jimfu\forkifyApplication\node_modules\chokidar\lib\constants.js132908016165182299 0
 70C:\Users\jimfu\forkifyApplication\node_modules\escalade\dist\index.mjs132908014511190768 0
@@ -118,7 +118,7 @@
 87C:\Users\jimfu\forkifyApplication\node_modules\core-js\modules\es.array.reduce-right.js132908160874203919 0
 89C:\Users\jimfu\forkifyApplication\node_modules\postcss-normalize-display-values\types\lib132908015788624812 1
 43C:\Users\jimfu\forkifyApplication\readme.md132912401031977205 0
-49C:\Users\jimfu\forkifyApplication\src\js\model.js132913144378485903 0
+49C:\Users\jimfu\forkifyApplication\src\js\model.js132913935537083938 0
 87C:\Users\jimfu\forkifyApplication\node_modules\@babel\helper-function-name\lib\index.js132911423559654621 0
 90C:\Users\jimfu\forkifyApplication\node_modules\core-js\features\typed-array\uint8-array.js132908160889749704 0
 66C:\Users\jimfu\forkifyApplication\node_modules\parse-json\index.js132908015786180834 0
@@ -175,7 +175,7 @@
 49C:\Users\jimfu\forkifyApplication\node_modules\ms132911423559677176 1
 74C:\Users\jimfu\forkifyApplication\node_modules\is-binary-path\package.json132908016165122303 0
 76C:\Users\jimfu\forkifyApplication\node_modules\svgo\plugins\removeDoctype.js132908015792360140 0
-54C:\Users\jimfu\forkifyApplication\src\js\controller.js132913169032968237 0
+54C:\Users\jimfu\forkifyApplication\src\js\controller.js132913961122145728 0
 71C:\Users\jimfu\forkifyApplication\node_modules\core-js\stable\escape.js132908160876158692 0
 78C:\Users\jimfu\forkifyApplication\node_modules\core-js\features\reflect\has.js132908160880123236 0
 93C:\Users\jimfu\forkifyApplication\node_modules\@parcel\node-resolver-core\lib\NodeResolver.js132908015793028349 0
@@ -199,7 +199,7 @@
 94C:\Users\jimfu\forkifyApplication\node_modules\caniuse-lite\data\features\deviceorientation.js132908014553663131 0
 78C:\Users\jimfu\forkifyApplication\node_modules\caniuse-lite\data\regions\SI.js132908014559072203 0
 70C:\Users\jimfu\forkifyApplication\node_modules\core-js\features\number132908160888323522 1
-60C:\Users\jimfu\forkifyApplication\src\js\views\recipeView.js132912393493383514 0
+60C:\Users\jimfu\forkifyApplication\src\js\views\recipeView.js132913991049862595 0
 56C:\Users\jimfu\forkifyApplication\src\sass\_preview.scss132562249780000000 0
 99C:\Users\jimfu\forkifyApplication\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map132911423559753095 0
 69C:\Users\jimfu\forkifyApplication\node_modules\entities\lib\generated132908015790608555 1
@@ -225,7 +225,7 @@
 74C:\Users\jimfu\forkifyApplication\node_modules\@parcel\package-manager\lib132908015792719180 1
 70C:\Users\jimfu\forkifyApplication\node_modules\css-what\lib\index.d.ts132908015789168769 0
 53C:\Users\jimfu\forkifyApplication\src\img\favicon.png132562249780000000 0
-50C:\Users\jimfu\forkifyApplication\src\js\config.js132912433041303370 0
+50C:\Users\jimfu\forkifyApplication\src\js\config.js132913309076776783 0
 77C:\Users\jimfu\forkifyApplication\node_modules\core-js\features\string\sup.js132908160887814884 0
 52C:\Users\jimfu\forkifyApplication\node_modules\clone132908014510669127 1
 78C:\Users\jimfu\forkifyApplication\node_modules\@parcel\core\test\test-utils.js132908015794823552 0
@@ -252,7 +252,7 @@
 46C:\Users\jimfu\forkifyApplication\src\js\views132913106655116837 1
 87C:\Users\jimfu\forkifyApplication\node_modules\css-declaration-sorter\orders\smacss.cjs132908015787897530 0
 92C:\Users\jimfu\forkifyApplication\node_modules\caniuse-lite\data\features\form-validation.js132908014555159286 0
-64C:\Users\jimfu\forkifyApplication\src\js\views\paginationView.js132913145668649293 0
+64C:\Users\jimfu\forkifyApplication\src\js\views\paginationView.js132913297864061821 0
 58C:\Users\jimfu\forkifyApplication\node_modules\terser\dist132908015792779018 1
 77C:\Users\jimfu\forkifyApplication\node_modules\xxhash-wasm\umd\xxhash-wasm.js132908015787572479 0
 72C:\Users\jimfu\forkifyApplication\node_modules\acorn\dist\acorn.mjs.d.ts132908015790000216 0
@@ -1130,7 +1130,7 @@
 80C:\Users\jimfu\forkifyApplication\node_modules\core-js\features\object\create.js132908160873056994 0
 77C:\Users\jimfu\forkifyApplication\node_modules\core-js\features\array\keys.js132908160882327341 0
 75C:\Users\jimfu\forkifyApplication\node_modules\yaml\browser\types\binary.js132908015786509956 0
-56C:\Users\jimfu\forkifyApplication\dist\index.e37f48ea.js132913169034285409 0
+56C:\Users\jimfu\forkifyApplication\dist\index.e37f48ea.js132913991051209811 0
 98C:\Users\jimfu\forkifyApplication\node_modules\caniuse-lite\data\features\credential-management.js132908014543833410 0
 67C:\Users\jimfu\forkifyApplication\node_modules\htmlnano\LICENSE.txt132908015793357474 0
 74C:\Users\jimfu\forkifyApplication\node_modules\yaml\browser\types\pairs.js132908015790098763 0
@@ -1355,7 +1355,7 @@
 77C:\Users\jimfu\forkifyApplication\node_modules\type-fest\source\asyncify.d.ts132908015788126148 0
 74C:\Users\jimfu\forkifyApplication\node_modules\mdn-data\css\selectors.json132908015790497700 0
 78C:\Users\jimfu\forkifyApplication\node_modules\core-js\stable\instance\bind.js132908160871912451 0
-57C:\Users\jimfu\forkifyApplication\dist\icons.21bad73c.svg132912270834114081 0
+57C:\Users\jimfu\forkifyApplication\dist\icons.21bad73c.svg132913189585218584 0
 94C:\Users\jimfu\forkifyApplication\node_modules\abortcontroller-polyfill\src\abortcontroller.js132908014513454704 0
 88C:\Users\jimfu\forkifyApplication\node_modules\caniuse-lite\data\features\audiotracks.js132908014532581651 0
 70C:\Users\jimfu\forkifyApplication\node_modules\lmdb\dist\index.cjs.map132908015794813580 0
@@ -4990,7 +4990,7 @@
 78C:\Users\jimfu\forkifyApplication\node_modules\caniuse-lite\data\regions\MM.js132908014557712452 0
 83C:\Users\jimfu\forkifyApplication\node_modules\core-js\modules\esnext.array.with.js132908160876477971 0
 92C:\Users\jimfu\forkifyApplication\node_modules\core-js\modules\esnext.async-iterator.drop.js132908160876507891 0
-61C:\Users\jimfu\forkifyApplication\dist\index.f7626f62.css.map132912270834124055 0
+61C:\Users\jimfu\forkifyApplication\dist\index.f7626f62.css.map132913189585208151 0
 93C:\Users\jimfu\forkifyApplication\node_modules\core-js\modules\esnext.async-iterator.every.js132908160876507891 0
 83C:\Users\jimfu\forkifyApplication\node_modules\core-js\internals\native-weak-map.js132908160883823342 0
 94C:\Users\jimfu\forkifyApplication\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js132908015793945899 0
@@ -7740,7 +7740,7 @@
 82C:\Users\jimfu\forkifyApplication\node_modules\@parcel\config-default\package.json132908015788006468 0
 74C:\Users\jimfu\forkifyApplication\node_modules\@parcel\config-default\test132908015786924212 1
 77C:\Users\jimfu\forkifyApplication\node_modules\@parcel\compressor-raw\LICENSE132908015785474623 0
-59C:\Users\jimfu\forkifyApplication\dist\favicon.8b2f57bf.png132912270830674036 0
+59C:\Users\jimfu\forkifyApplication\dist\favicon.8b2f57bf.png132913189585298395 0
 73C:\Users\jimfu\forkifyApplication\node_modules\@parcel\compressor-raw\src132908015786984259 1
 90C:\Users\jimfu\forkifyApplication\node_modules\@parcel\compressor-raw\lib\RawCompressor.js132908015786390275 0
 72C:\Users\jimfu\forkifyApplication\node_modules\@parcel\codeframe\LICENSE132908015785602803 0
@@ -8045,8 +8045,8 @@
 58C:\Users\jimfu\forkifyApplication\node_modules\.bin\parser132911423561737787 0
 62C:\Users\jimfu\forkifyApplication\node_modules\.bin\semver.ps1132908014582101615 0
 60C:\Users\jimfu\forkifyApplication\node_modules\.bin\svgo.cmd132908015801533918 0
-57C:\Users\jimfu\forkifyApplication\dist\icons.dfd7a6db.svg132912272996110374 0
-60C:\Users\jimfu\forkifyApplication\dist\index.e37f48ea.js.map132913169034298296 0
-57C:\Users\jimfu\forkifyApplication\dist\index.f7626f62.css132912270834114081 0
-49C:\Users\jimfu\forkifyApplication\dist\index.html132912173707280159 0
-56C:\Users\jimfu\forkifyApplication\dist\logo.726d37a8.png132912270831477307 0
+57C:\Users\jimfu\forkifyApplication\dist\icons.dfd7a6db.svg132913189585466738 0
+60C:\Users\jimfu\forkifyApplication\dist\index.e37f48ea.js.map132913991051219782 0
+57C:\Users\jimfu\forkifyApplication\dist\index.f7626f62.css132913189585208151 0
+49C:\Users\jimfu\forkifyApplication\dist\index.html132913189585461827 0
+56C:\Users\jimfu\forkifyApplication\dist\logo.726d37a8.png132913189585138329 0
