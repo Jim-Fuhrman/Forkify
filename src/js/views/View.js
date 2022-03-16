@@ -26,8 +26,8 @@ export default class View {
       const newDOM = document.createRange().createContextualFragment(newMarkup);
       const newElements = Array.from(newDOM.querySelectorAll('*'));
       const curElements = Array.from(this._parentElement.querySelectorAll('*'));
-      console.log(newElements);
-      console.log(curElements);
+      // console.log(newElements);
+      // console.log(curElements);
 
       newElements.forEach((newEl, i) => {
         const curEl = curElements[i];
@@ -48,7 +48,7 @@ export default class View {
   }
 
     _clear() {
-        console.log(this._parentElement);
+        // console.log(this._parentElement);
         this._parentElement.innerHTML = '';
     }
 
@@ -81,14 +81,14 @@ export default class View {
 
     renderMessage(message = this._message) {
       const markup = `
-      <!-- <div class="message">
+          <div class="message">
             <div>
               <svg>
                 <use href="${icons}#icon-smile"></use>
               </svg>
             </div>
             <p>${message}</p>
-          </div> -->
+          </div>
       `
       this._clear();
       this._parentElement.insertAdjacentHTML('afterbegin', markup);
